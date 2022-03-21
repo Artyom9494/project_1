@@ -20,3 +20,8 @@
 @import url(../blocks/cards/__content/cards__content.css);
 @import url(../blocks/cards/__logo/cards__logo.css);
 @import url(../blocks/cards/__sab-title/cards__sab-title.css);
+
+@import url(../blocks/Portfolio/Portfolio.css);
+@import url(../blocks/Portfolio/__title/Portfolio__title.css);
+@import url(../blocks/Portfolio/__content/Portfolio__content.css);
+@import url(../blocks/Portfolio/__sab-title/Portfolio__sab-title.css);
