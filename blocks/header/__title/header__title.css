@@ -1,0 +1,28 @@
+.header__title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  width: 123.51px;
+  font-size: 47px;
+  line-height: 59px;
+  margin: 30px 0;
+}
+
+.sub-title {
+  width: 155.65px;
+  font-size: 17px;
+  line-height: 21.83px;
+  margin: 30px 0;
+  padding: 6% 0 0 0;
+}
+
+.language {
+  font-size: 16px;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  margin: 0 0 54px 0;
+  font-size: 16px;
+  line-height: 20px;
+}
