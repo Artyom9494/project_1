@@ -1,0 +1,17 @@
+.footer__paragraph {
+  width: 275.14px;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  margin: 0 auto 42px auto;
+  color: #070707;
+  font-weight: bold;
+}
+
+.footer__paragraph:last-of-type {
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #828282;
+  margin: 0 0 123px 0;
+}

@@ -1,8 +1,10 @@
 .Portfolio__sab-title {
+  width: 300px;
   margin: 45px 0 99px 0;
   font-size: 18px;
   line-height: 22px;
   text-align: center;
   font-weight: bold;
   text-decoration: underline;
+  color: black;
 }

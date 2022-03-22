@@ -25,3 +25,11 @@
 @import url(../blocks/Portfolio/__title/Portfolio__title.css);
 @import url(../blocks/Portfolio/__content/Portfolio__content.css);
 @import url(../blocks/Portfolio/__sab-title/Portfolio__sab-title.css);
+@import url(../blocks/Portfolio/__link/Portfolio__link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__paragraph/footer__paragraph.css);
+@import url(../blocks/footer/__button/footer__button.css);
+@import url(../blocks/footer/__icons/footer__icons.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
